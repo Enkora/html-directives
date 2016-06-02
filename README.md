@@ -3,8 +3,10 @@ html-directives
 
 AngularJS 1.X. component for defining basic directives as HTML.
 
+<!---
 [![Build Status](https://travis-ci.org/Enkora/html-directives.png?branch=master)](https://travis-ci.org/Enkora/html-directives)
 [![Coverage Status](https://coveralls.io/repos/Enkora/html-directives/badge.png)](https://coveralls.io/r/Enkora/html-directives)
+-->
 
 Installation
 ------------

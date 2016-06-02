@@ -171,7 +171,8 @@
 
           // if scope is empty, delete it
           var scopeCount = 0;
-          for (var i in directive.scope) {
+
+          for (var i in directive.scope) { // jshint ignore:line
             scopeCount += 1;
           }
 

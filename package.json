@@ -1,0 +1,28 @@
+{
+  "name": "html-directives",
+  "version": "0.1.0",
+  "description": "AngularJS 1.X. component for defining basic directives as HTML.",
+  "main": "html-directives.js",
+  "scripts": {
+    "test": "./node_modules/grunt/bin/grunt test",
+    "build": "./node_modules/grunt/bin/grunt build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enkora/html-directives.git"
+  },
+  "author": "Enkora Oy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Enkora/html-directives/issues"
+  },
+  "homepage": "https://github.com/Enkora/html-directives#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
