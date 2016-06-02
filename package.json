@@ -1,6 +1,6 @@
 {
   "name": "html-directives",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "AngularJS 1.X. component for defining basic directives as HTML.",
   "main": "html-directives.js",
   "scripts": {
