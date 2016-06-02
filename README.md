@@ -12,15 +12,15 @@ Installation
 ------------
 
 You can choose your preferred method of installation:
-* Through bower: `bower install html-directives --save`
-* Download from github: [html-directives.min.js](https://raw.github.com/Enkora/html-directives/master/html-directives.min.js)
+* Through npm: `npm install html-directives --save`
+* Download from github: [html-directives.min.js](https://github.com/Enkora/html-directives/raw/master/html-directives.min.js)
 
 Usage
 -----
 Include html-directives.min.js in your application.
 
 ```html
-<script src="components/html-directives/html-directives.js"></script>
+<script src="node_modules/html-directives/html-directives.min.js"></script>
 ```
 
 Add the module `htmlDirectives` as a dependency to your app module:
