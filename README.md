@@ -29,7 +29,13 @@ Add the module `htmlDirectives` as a dependency to your app module:
 var myapp = angular.module('myapp', ['htmlDirectives']);
 ```
 
-### Configuration
+Add a html-directives root tag into your application
+
+```html
+<div html-directives>
+	<!-- [app logic goes here] -->
+</div>
+```
 
 Add a template URL in your app config section
 
