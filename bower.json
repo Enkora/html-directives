@@ -1,0 +1,17 @@
+{
+  "name": "html-directives",
+  "description": "AngularJS 1.X. component for defining basic directives as HTML.",
+  "main": "html-directives.js",
+  "authors": [
+    "Enkora Oy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Enkora/html-directives",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
